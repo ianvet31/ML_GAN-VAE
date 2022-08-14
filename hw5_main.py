@@ -14,4 +14,4 @@ from hw5_utils import array_to_image, concat_images, batch_indices, load_mnist
 
 
 
-hw5_vae.main()
+vae.main()
